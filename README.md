@@ -1,15 +1,3 @@
-# Scalable Web App with Authentication & Dashboard
-
-A production-ready full-stack web application built with Next.js, Express, and MongoDB featuring JWT authentication, CRUD operations, and a modern responsive UI.
-
-## 🎯 Assignment Overview
-
-This project fulfills all requirements for building a **Scalable Web App with Authentication & Dashboard** within 3 days.
-
-## ✅ Core Features Implemented
-
-### Frontend (Primary Focus)
-- ✅ Built with **Next.js 14** (App Router) + **TypeScript**
 - ✅ Responsive design using **TailwindCSS** (Shadcn UI inspired)
 - ✅ Forms with validation:
   - **Client-side**: react-hook-form with real-time validation
@@ -283,10 +271,7 @@ scalable-web-app/
 - bcryptjs
 - CORS
 
-## 📄 License
-
-This project is open source and available under the MIT License.
 
 ## 👨‍💻 Author
 
-Built as part of a scalable web application assignment demonstrating full-stack development skills with modern technologies and best practices.
+Built as part of a scalable web application assignment demonstrating full-stack development skills. "Aditya Singh"
